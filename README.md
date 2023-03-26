@@ -14,3 +14,7 @@
 ![Ошибка](./assets/error.png)
 
 Необходимо дожидаться ввода всех семи символов, включая решётку, чтобы принимать решение о том, показывать ошибку или менять цвет фона.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/formshex2rgb)
+
+## https://bel-lov.github.io/formshex2rgb/
